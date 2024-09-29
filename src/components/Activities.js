@@ -10,9 +10,8 @@ const Container = styled.div`
 
 const Banner = styled.div`
   display: flex;
-  justify-content: center;
-
   flex-direction: column;
+  justify-content: center;
   margin-top: 100px;
   padding: 0 84px;
   position: relative;

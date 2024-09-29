@@ -4,9 +4,8 @@ import { Link } from "react-router-dom";
 import styled from "styled-components";
 
 const Container = styled.div`
-  max-width: 100%;
+  width: 100%;
   font-family: Pretendard;
-
   h3 {
     color: #828282;
     font-size: 18px;
@@ -84,6 +83,7 @@ const StoryContainer = styled.div`
   margin-top: 43px;
   width: 100%;
   display: flex;
+
   justify-content: space-between;
 `;
 
