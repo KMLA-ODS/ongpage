@@ -15,6 +15,7 @@ const Nav = styled.nav`
   height: 100px;
   width: 100%;
   max-width: 1920px;
+  min-width: 1280px;
 
   box-sizing: border-box;
   background-color: ${(props) => (props.isHome ? "transparent" : "white")};
